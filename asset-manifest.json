@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/patrones-de-disenio/static/css/main.e113d99d.css",
+    "main.js": "/patrones-de-disenio/static/js/main.62905f4b.js",
+    "static/js/787.28cb0dcd.chunk.js": "/patrones-de-disenio/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/patrones-de-disenio/index.html",
+    "main.e113d99d.css.map": "/patrones-de-disenio/static/css/main.e113d99d.css.map",
+    "main.62905f4b.js.map": "/patrones-de-disenio/static/js/main.62905f4b.js.map",
+    "787.28cb0dcd.chunk.js.map": "/patrones-de-disenio/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e113d99d.css",
+    "static/js/main.62905f4b.js"
+  ]
+}
